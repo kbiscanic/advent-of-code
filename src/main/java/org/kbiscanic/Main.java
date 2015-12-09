@@ -1,6 +1,6 @@
 package org.kbiscanic;
 
-import org.kbiscanic.solutions.Day2;
+import org.kbiscanic.solutions.Day3;
 
 public class Main {
 
@@ -8,6 +8,8 @@ public class Main {
         // Day1.part1();
         // Day1.part2();
         // Day2.part1();
-        Day2.part2();
+        // Day2.part2();
+        // Day3.part1();
+        Day3.part2();
     }
 }
