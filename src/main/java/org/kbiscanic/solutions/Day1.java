@@ -1,9 +1,9 @@
 package org.kbiscanic.solutions;
 
+import com.codepoetics.protonpack.StreamUtils;
+
 import java.util.Scanner;
 import java.util.concurrent.atomic.AtomicLong;
-
-import com.codepoetics.protonpack.StreamUtils;
 
 public class Day1 {
 
